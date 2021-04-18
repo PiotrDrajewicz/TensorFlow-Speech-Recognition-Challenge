@@ -1,5 +1,5 @@
 # TensorFlow-Speech-Recognition-Challenge
-Algorithm which recognises certain speech commands.
+Algorithm which recognises certain speech commands with use of the neural network.
 ## General info
 This project is being made by taking part in TensorFlow's challenge in which you have to make algorithm that will achieve best recognition rate in speech recognition process. It's made on Google Colab platform with use of the neural network which processes spectrograms. Project isn't finished yet and I'm still developing it.
 ## Technologies
